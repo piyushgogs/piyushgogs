@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgogs&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgogs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gogspiyush" target="blank"><img src="https://img.shields.io/twitter/follow/@gogspiyush?logo=twitter&style=for-the-badge" alt="@gogspiyush" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@gogspiyush" target="blank"><img src="https://img.shields.io/twitter/follow/@gogspiyush?logo=twitter&style=for-the-badge" alt="gogspiyush" /></a> </p>
 
 - 🔭 I’m currently working on [E-com Website](https://randomtrends.in/)
 
